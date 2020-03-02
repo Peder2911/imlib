@@ -1,0 +1,2 @@
+- filetype: .R
+  call : Rscript -e devtools::document();devtools::install();devtools::test()

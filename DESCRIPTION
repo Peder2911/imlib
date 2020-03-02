@@ -1,0 +1,12 @@
+Package: imlib 
+Title: Simple functions for doing simulations / IML
+Version: 0.0.1
+Author: c(person("Peder", "Landsverk", email = "pglandsverk@gmail.com", role = c("aut", "cre")),
+Description: Simple functions for doing simulations / counterfactuals / IML. 
+License: MIT 
+Encoding: UTF-8
+LazyData: true
+Imports: glue
+Suggests: 
+   testthat (>= 2.1.0)
+RoxygenNote: 7.0.2
