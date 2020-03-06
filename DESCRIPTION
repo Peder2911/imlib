@@ -6,7 +6,9 @@ Description: Simple functions for doing simulations / counterfactuals / IML.
 License: MIT 
 Encoding: UTF-8
 LazyData: true
-Imports: glue
+Imports: 
+   glue (>= 1.3.1),
+   MASS (>= 7.3.51.5)
 Suggests: 
    testthat (>= 2.1.0)
 RoxygenNote: 7.0.2
